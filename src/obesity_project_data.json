@@ -1,0 +1,2142 @@
+{
+    "model_weights": {
+        "intercept": 14.358565978254084,
+        "low_fruit": 0.28299145660641795,
+        "no_exercise": 0.3156816461244881
+    },
+    "demographics": {
+        "Vermont": {
+            "Gender": {
+                "Female": 29.0,
+                "Male": 29.1
+            },
+            "Education": {
+                "Some college or technical school": 30.7,
+                "College graduate": 22.4,
+                "Less than high school": 31.0,
+                "High school graduate": 34.9
+            },
+            "Income": {
+                "$25,000 - $34,999": 28.0,
+                "$15,000 - $24,999": 34.1,
+                "Data not reported": 25.8,
+                "Less than $15,000": 35.0,
+                "$75,000 or greater": 28.6,
+                "$50,000 - $74,999": 30.2,
+                "$35,000 - $49,999": 34.5
+            },
+            "Age (years)": {
+                "35 - 44": 33.0,
+                "45 - 54": 35.0,
+                "55 - 64": 32.8,
+                "65 or older": 26.8,
+                "18 - 24": 18.4,
+                "25 - 34": 28.2
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 29.2,
+                "American Indian/Alaska Native": 35.2,
+                "2 or more races": 30.1,
+                "Hispanic": 25.2,
+                "Other": 43.5
+            },
+            "Total": {
+                "Total": 29.0
+            }
+        },
+        "New Hampshire": {
+            "Age (years)": {
+                "65 or older": 25.9,
+                "45 - 54": 38.8,
+                "55 - 64": 34.0,
+                "18 - 24": 17.0,
+                "25 - 34": 27.8,
+                "35 - 44": 39.7
+            },
+            "Income": {
+                "$50,000 - $74,999": 31.2,
+                "$75,000 or greater": 25.9,
+                "$15,000 - $24,999": 39.7,
+                "Data not reported": 29.4,
+                "$25,000 - $34,999": 33.6,
+                "Less than $15,000": 36.9,
+                "$35,000 - $49,999": 32.5
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 31.0,
+                "Asian": 12.9,
+                "Other": 26.5,
+                "Hispanic": 39.5,
+                "2 or more races": 36.4
+            },
+            "Education": {
+                "College graduate": 26.3,
+                "High school graduate": 34.0,
+                "Some college or technical school": 32.1,
+                "Less than high school": 32.9
+            },
+            "Gender": {
+                "Female": 27.9,
+                "Male": 33.3
+            },
+            "Total": {
+                "Total": 30.6
+            }
+        },
+        "Rhode Island": {
+            "Income": {
+                "$35,000 - $49,999": 33.9,
+                "$25,000 - $34,999": 38.0,
+                "Data not reported": 26.1,
+                "$15,000 - $24,999": 35.5,
+                "Less than $15,000": 40.8,
+                "$75,000 or greater": 29.8,
+                "$50,000 - $74,999": 28.0
+            },
+            "Age (years)": {
+                "55 - 64": 33.3,
+                "18 - 24": 20.1,
+                "65 or older": 24.9,
+                "25 - 34": 31.1,
+                "35 - 44": 35.1,
+                "45 - 54": 36.8
+            },
+            "Gender": {
+                "Male": 30.9,
+                "Female": 29.2
+            },
+            "Race/Ethnicity": {
+                "2 or more races": 32.4,
+                "Non-Hispanic White": 28.7,
+                "Hispanic": 33.9,
+                "Other": 34.2,
+                "Asian": 13.4,
+                "Non-Hispanic Black": 43.1
+            },
+            "Education": {
+                "Some college or technical school": 30.7,
+                "High school graduate": 34.6,
+                "Less than high school": 34.7,
+                "College graduate": 23.9
+            },
+            "Total": {
+                "Total": 30.1
+            }
+        },
+        "New Mexico": {
+            "Age (years)": {
+                "45 - 54": 47.8,
+                "55 - 64": 35.6,
+                "18 - 24": 23.0,
+                "65 or older": 26.7,
+                "25 - 34": 36.9,
+                "35 - 44": 40.3
+            },
+            "Income": {
+                "$50,000 - $74,999": 35.1,
+                "$35,000 - $49,999": 35.7,
+                "$25,000 - $34,999": 38.7,
+                "Data not reported": 29.9,
+                "$15,000 - $24,999": 37.4,
+                "Less than $15,000": 43.3,
+                "$75,000 or greater": 28.5
+            },
+            "Gender": {
+                "Female": 35.6,
+                "Male": 33.5
+            },
+            "Education": {
+                "College graduate": 25.1,
+                "Some college or technical school": 38.1,
+                "High school graduate": 36.7,
+                "Less than high school": 38.9
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic Black": 37.9,
+                "Non-Hispanic White": 27.5,
+                "Hispanic": 38.2,
+                "American Indian/Alaska Native": 50.1,
+                "Asian": 23.9,
+                "2 or more races": 28.5
+            },
+            "Total": {
+                "Total": 34.6
+            }
+        },
+        "North Dakota": {
+            "Gender": {
+                "Male": 37.1,
+                "Female": 33.1
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic Black": 28.5,
+                "American Indian/Alaska Native": 51.5,
+                "Hispanic": 37.3,
+                "2 or more races": 28.0,
+                "Non-Hispanic White": 34.7
+            },
+            "Age (years)": {
+                "45 - 54": 41.9,
+                "55 - 64": 42.5,
+                "18 - 24": 18.0,
+                "65 or older": 35.6,
+                "25 - 34": 32.0,
+                "35 - 44": 40.4
+            },
+            "Income": {
+                "Less than $15,000": 44.2,
+                "$75,000 or greater": 33.3,
+                "$35,000 - $49,999": 35.6,
+                "$50,000 - $74,999": 40.6,
+                "$25,000 - $34,999": 40.1,
+                "$15,000 - $24,999": 36.3,
+                "Data not reported": 31.4
+            },
+            "Education": {
+                "High school graduate": 33.9,
+                "Some college or technical school": 37.5,
+                "Less than high school": 41.6,
+                "College graduate": 31.6
+            },
+            "Total": {
+                "Total": 35.2
+            }
+        },
+        "South Carolina": {
+            "Income": {
+                "$35,000 - $49,999": 35.5,
+                "$50,000 - $74,999": 39.1,
+                "Less than $15,000": 48.1,
+                "Data not reported": 29.7,
+                "$75,000 or greater": 35.6,
+                "$15,000 - $24,999": 41.7,
+                "$25,000 - $34,999": 41.2
+            },
+            "Education": {
+                "College graduate": 32.7,
+                "High school graduate": 36.7,
+                "Less than high school": 39.9,
+                "Some college or technical school": 37.1
+            },
+            "Race/Ethnicity": {
+                "2 or more races": 35.0,
+                "Non-Hispanic Black": 45.7,
+                "American Indian/Alaska Native": 52.4,
+                "Other": 35.2,
+                "Non-Hispanic White": 32.9,
+                "Asian": 19.1,
+                "Hispanic": 28.3
+            },
+            "Age (years)": {
+                "65 or older": 32.5,
+                "45 - 54": 47.1,
+                "35 - 44": 40.6,
+                "25 - 34": 36.3,
+                "18 - 24": 21.0,
+                "55 - 64": 38.1
+            },
+            "Total": {
+                "Total": 36.1
+            },
+            "Gender": {
+                "Male": 33.8,
+                "Female": 38.3
+            }
+        },
+        "National": {
+            "Race/Ethnicity": {
+                "Asian": 11.8,
+                "Other": 30.9,
+                "2 or more races": 33.1,
+                "Non-Hispanic White": 32.0,
+                "American Indian/Alaska Native": 38.7,
+                "Non-Hispanic Black": 42.9,
+                "Hawaiian/Pacific Islander": 42.9,
+                "Hispanic": 37.1
+            },
+            "Education": {
+                "College graduate": 26.3,
+                "Less than high school": 37.8,
+                "High school graduate": 35.5,
+                "Some college or technical school": 35.6
+            },
+            "Gender": {
+                "Female": 33.7,
+                "Male": 32.3
+            },
+            "Age (years)": {
+                "35 - 44": 36.8,
+                "18 - 24": 20.7,
+                "25 - 34": 32.0,
+                "65 or older": 29.5,
+                "55 - 64": 38.1,
+                "45 - 54": 39.3
+            },
+            "Income": {
+                "$15,000 - $24,999": 37.8,
+                "Data not reported": 28.5,
+                "$35,000 - $49,999": 35.6,
+                "Less than $15,000": 38.7,
+                "$50,000 - $74,999": 35.0,
+                "$75,000 or greater": 33.7,
+                "$25,000 - $34,999": 37.2
+            },
+            "Total": {
+                "Total": 33.0
+            }
+        },
+        "New Jersey": {
+            "Race/Ethnicity": {
+                "Hispanic": 31.2,
+                "Asian": 10.3,
+                "Other": 21.9,
+                "Non-Hispanic White": 28.8,
+                "Non-Hispanic Black": 35.5,
+                "2 or more races": 34.1
+            },
+            "Education": {
+                "Some college or technical school": 32.4,
+                "College graduate": 23.8,
+                "Less than high school": 30.6,
+                "High school graduate": 29.7
+            },
+            "Age (years)": {
+                "65 or older": 26.3,
+                "55 - 64": 34.4,
+                "18 - 24": 15.8,
+                "45 - 54": 28.7,
+                "25 - 34": 28.1,
+                "35 - 44": 32.8
+            },
+            "Total": {
+                "Total": 28.2
+            },
+            "Gender": {
+                "Male": 28.8,
+                "Female": 27.5
+            },
+            "Income": {
+                "$35,000 - $49,999": 26.4,
+                "$25,000 - $34,999": 36.0,
+                "Data not reported": 24.2,
+                "$50,000 - $74,999": 32.2,
+                "$15,000 - $24,999": 36.4,
+                "$75,000 or greater": 33.5,
+                "Less than $15,000": 28.2
+            }
+        },
+        "New York": {
+            "Income": {
+                "$25,000 - $34,999": 33.7,
+                "$35,000 - $49,999": 30.6,
+                "$50,000 - $74,999": 30.8,
+                "Less than $15,000": 36.0,
+                "$75,000 or greater": 28.7,
+                "$15,000 - $24,999": 33.5,
+                "Data not reported": 25.8
+            },
+            "Race/Ethnicity": {
+                "Hispanic": 33.5,
+                "2 or more races": 27.0,
+                "Non-Hispanic Black": 36.8,
+                "Other": 29.5,
+                "American Indian/Alaska Native": 40.4,
+                "Non-Hispanic White": 28.5,
+                "Asian": 13.2
+            },
+            "Age (years)": {
+                "18 - 24": 20.8,
+                "55 - 64": 34.2,
+                "45 - 54": 35.2,
+                "65 or older": 27.1,
+                "35 - 44": 29.6,
+                "25 - 34": 26.5
+            },
+            "Education": {
+                "Less than high school": 35.0,
+                "College graduate": 22.8,
+                "Some college or technical school": 31.7,
+                "High school graduate": 32.5
+            },
+            "Gender": {
+                "Male": 28.4,
+                "Female": 29.8
+            },
+            "Total": {
+                "Total": 29.1
+            }
+        },
+        "Nevada": {
+            "Income": {
+                "Data not reported": 27.1,
+                "$25,000 - $34,999": 39.0,
+                "$15,000 - $24,999": 37.4,
+                "$35,000 - $49,999": 30.8,
+                "Less than $15,000": 39.6,
+                "$50,000 - $74,999": 31.6,
+                "$75,000 or greater": 28.2
+            },
+            "Gender": {
+                "Female": 29.4,
+                "Male": 33.1
+            },
+            "Education": {
+                "College graduate": 23.1,
+                "Less than high school": 41.3,
+                "High school graduate": 31.7,
+                "Some college or technical school": 33.1
+            },
+            "Age (years)": {
+                "35 - 44": 35.9,
+                "18 - 24": 21.0,
+                "65 or older": 25.1,
+                "55 - 64": 33.1,
+                "45 - 54": 39.9,
+                "25 - 34": 31.8
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 31.0,
+                "Asian": 16.2,
+                "Non-Hispanic Black": 32.6,
+                "2 or more races": 29.5,
+                "Hispanic": 36.2
+            },
+            "Total": {
+                "Total": 31.3
+            }
+        },
+        "Maine": {
+            "Income": {
+                "Less than $15,000": 43.6,
+                "$50,000 - $74,999": 36.7,
+                "$15,000 - $24,999": 39.0,
+                "Data not reported": 27.8,
+                "$75,000 or greater": 31.7,
+                "$25,000 - $34,999": 30.7,
+                "$35,000 - $49,999": 32.8
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 31.8,
+                "Other": 6.7,
+                "Hispanic": 31.6,
+                "American Indian/Alaska Native": 31.5,
+                "2 or more races": 44.5
+            },
+            "Education": {
+                "Some college or technical school": 35.1,
+                "High school graduate": 33.1,
+                "Less than high school": 38.1,
+                "College graduate": 25.6
+            },
+            "Age (years)": {
+                "45 - 54": 39.1,
+                "35 - 44": 36.5,
+                "55 - 64": 36.8,
+                "25 - 34": 29.4,
+                "65 or older": 27.5,
+                "18 - 24": 21.1
+            },
+            "Gender": {
+                "Male": 31.6,
+                "Female": 32.2
+            },
+            "Total": {
+                "Total": 31.9
+            }
+        },
+        "Ohio": {
+            "Race/Ethnicity": {
+                "2 or more races": 45.4,
+                "Asian": 12.6,
+                "Other": 27.6,
+                "Hispanic": 35.1,
+                "Non-Hispanic Black": 42.6,
+                "Non-Hispanic White": 37.6,
+                "American Indian/Alaska Native": 37.6
+            },
+            "Income": {
+                "$25,000 - $34,999": 42.1,
+                "$75,000 or greater": 39.5,
+                "$35,000 - $49,999": 34.9,
+                "$50,000 - $74,999": 39.7,
+                "Less than $15,000": 43.5,
+                "$15,000 - $24,999": 41.8,
+                "Data not reported": 34.1
+            },
+            "Total": {
+                "Total": 37.8
+            },
+            "Education": {
+                "College graduate": 34.5,
+                "Some college or technical school": 40.1,
+                "High school graduate": 39.7,
+                "Less than high school": 33.5
+            },
+            "Age (years)": {
+                "45 - 54": 45.7,
+                "65 or older": 35.7,
+                "35 - 44": 42.1,
+                "55 - 64": 42.1,
+                "25 - 34": 36.5,
+                "18 - 24": 21.8
+            },
+            "Gender": {
+                "Male": 36.5,
+                "Female": 39.0
+            }
+        },
+        "Wisconsin": {
+            "Education": {
+                "Some college or technical school": 36.7,
+                "College graduate": 27.1,
+                "Less than high school": 32.9,
+                "High school graduate": 37.5
+            },
+            "Total": {
+                "Total": 33.9
+            },
+            "Race/Ethnicity": {
+                "Hispanic": 31.0,
+                "American Indian/Alaska Native": 44.8,
+                "Asian": 16.5,
+                "Non-Hispanic White": 33.1,
+                "2 or more races": 36.6,
+                "Non-Hispanic Black": 55.1
+            },
+            "Age (years)": {
+                "25 - 34": 28.3,
+                "65 or older": 32.3,
+                "55 - 64": 39.5,
+                "45 - 54": 44.9,
+                "18 - 24": 23.1,
+                "35 - 44": 33.4
+            },
+            "Gender": {
+                "Male": 33.3,
+                "Female": 34.5
+            },
+            "Income": {
+                "$35,000 - $49,999": 33.1,
+                "Data not reported": 29.6,
+                "$50,000 - $74,999": 38.4,
+                "$25,000 - $34,999": 42.4,
+                "$75,000 or greater": 30.5,
+                "$15,000 - $24,999": 40.1,
+                "Less than $15,000": 36.7
+            }
+        },
+        "Louisiana": {
+            "Age (years)": {
+                "65 or older": 35.3,
+                "25 - 34": 36.7,
+                "35 - 44": 42.8,
+                "45 - 54": 44.9,
+                "18 - 24": 23.0,
+                "55 - 64": 45.9
+            },
+            "Income": {
+                "$25,000 - $34,999": 41.5,
+                "$15,000 - $24,999": 45.4,
+                "Data not reported": 32.7,
+                "$50,000 - $74,999": 42.9,
+                "$75,000 or greater": 38.9,
+                "Less than $15,000": 43.0,
+                "$35,000 - $49,999": 39.2
+            },
+            "Gender": {
+                "Male": 36.0,
+                "Female": 41.2
+            },
+            "Total": {
+                "Total": 38.6
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 36.8,
+                "2 or more races": 30.0,
+                "Hispanic": 34.6,
+                "Non-Hispanic Black": 45.2
+            },
+            "Education": {
+                "Some college or technical school": 38.3,
+                "High school graduate": 40.5,
+                "College graduate": 34.4,
+                "Less than high school": 41.8
+            }
+        },
+        "District of Columbia": {
+            "Gender": {
+                "Female": 28.6,
+                "Male": 20.7
+            },
+            "Income": {
+                "Data not reported": 19.5,
+                "$15,000 - $24,999": 39.8,
+                "$35,000 - $49,999": 27.8,
+                "Less than $15,000": 42.3,
+                "$50,000 - $74,999": 26.2,
+                "$75,000 or greater": 25.2,
+                "$25,000 - $34,999": 34.3
+            },
+            "Education": {
+                "College graduate": 17.8,
+                "Less than high school": 34.2,
+                "High school graduate": 38.8,
+                "Some college or technical school": 30.5
+            },
+            "Race/Ethnicity": {
+                "Asian": 8.4,
+                "Non-Hispanic White": 13.0,
+                "Non-Hispanic Black": 35.9,
+                "2 or more races": 25.0,
+                "Hispanic": 34.8
+            },
+            "Age (years)": {
+                "35 - 44": 26.3,
+                "65 or older": 24.0,
+                "18 - 24": 15.5,
+                "55 - 64": 34.6,
+                "45 - 54": 31.0,
+                "25 - 34": 19.3
+            },
+            "Total": {
+                "Total": 24.7
+            }
+        },
+        "Connecticut": {
+            "Total": {
+                "Total": 30.4
+            },
+            "Income": {
+                "Less than $15,000": 35.5,
+                "$15,000 - $24,999": 33.2,
+                "Data not reported": 26.5,
+                "$75,000 or greater": 30.0,
+                "$50,000 - $74,999": 33.7,
+                "$35,000 - $49,999": 35.5,
+                "$25,000 - $34,999": 39.0
+            },
+            "Age (years)": {
+                "35 - 44": 32.0,
+                "45 - 54": 36.0,
+                "18 - 24": 20.0,
+                "55 - 64": 34.8,
+                "65 or older": 26.6,
+                "25 - 34": 32.2
+            },
+            "Education": {
+                "High school graduate": 33.4,
+                "College graduate": 23.5,
+                "Less than high school": 35.5,
+                "Some college or technical school": 34.9
+            },
+            "Race/Ethnicity": {
+                "Hispanic": 34.1,
+                "2 or more races": 29.2,
+                "Non-Hispanic Black": 44.4,
+                "Asian": 13.6,
+                "Other": 32.6,
+                "Non-Hispanic White": 28.8
+            },
+            "Gender": {
+                "Female": 30.7,
+                "Male": 30.1
+            }
+        },
+        "Virgin Islands": {
+            "Age (years)": {
+                "65 or older": 18.9,
+                "25 - 34": 27.5,
+                "35 - 44": 51.3,
+                "45 - 54": 59.7,
+                "55 - 64": 30.9,
+                "18 - 24": 18.1
+            },
+            "Income": {
+                "$35,000 - $49,999": 39.7,
+                "$75,000 or greater": 56.9,
+                "$25,000 - $34,999": 48.2,
+                "$15,000 - $24,999": 28.6,
+                "Less than $15,000": 46.2,
+                "Data not reported": 22.9,
+                "$50,000 - $74,999": 36.8
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic Black": 36.7,
+                "Hispanic": 52.2,
+                "Non-Hispanic White": 12.6
+            },
+            "Education": {
+                "Some college or technical school": 33.0,
+                "High school graduate": 38.6,
+                "College graduate": 39.0,
+                "Less than high school": 33.4
+            },
+            "Total": {
+                "Total": 35.6
+            },
+            "Gender": {
+                "Male": 25.7,
+                "Female": 44.5
+            }
+        },
+        "Delaware": {
+            "Income": {
+                "$75,000 or greater": 38.8,
+                "$15,000 - $24,999": 38.7,
+                "Data not reported": 31.0,
+                "$25,000 - $34,999": 33.9,
+                "$35,000 - $49,999": 32.5,
+                "Less than $15,000": 44.5,
+                "$50,000 - $74,999": 34.0
+            },
+            "Gender": {
+                "Male": 31.7,
+                "Female": 36.1
+            },
+            "Age (years)": {
+                "35 - 44": 38.3,
+                "55 - 64": 39.3,
+                "25 - 34": 31.4,
+                "65 or older": 32.9,
+                "18 - 24": 17.5,
+                "45 - 54": 39.6
+            },
+            "Education": {
+                "High school graduate": 35.6,
+                "College graduate": 31.7,
+                "Less than high school": 35.5,
+                "Some college or technical school": 33.8
+            },
+            "Race/Ethnicity": {
+                "Asian": 17.0,
+                "Hispanic": 38.8,
+                "2 or more races": 40.8,
+                "Non-Hispanic Black": 40.0,
+                "Non-Hispanic White": 31.7
+            },
+            "Total": {
+                "Total": 33.9
+            }
+        },
+        "Oregon": {
+            "Education": {
+                "High school graduate": 30.0,
+                "Some college or technical school": 34.7,
+                "College graduate": 24.9,
+                "Less than high school": 35.2
+            },
+            "Race/Ethnicity": {
+                "American Indian/Alaska Native": 37.5,
+                "Hispanic": 36.8,
+                "Non-Hispanic White": 30.6,
+                "2 or more races": 38.5,
+                "Asian": 13.2,
+                "Non-Hispanic Black": 27.5
+            },
+            "Income": {
+                "$35,000 - $49,999": 33.3,
+                "$25,000 - $34,999": 29.8,
+                "$15,000 - $24,999": 35.8,
+                "Data not reported": 28.6,
+                "$75,000 or greater": 27.3,
+                "Less than $15,000": 33.8
+            },
+            "Age (years)": {
+                "25 - 34": 33.4,
+                "35 - 44": 33.7,
+                "45 - 54": 37.5,
+                "18 - 24": 16.9,
+                "55 - 64": 34.4,
+                "65 or older": 25.0
+            },
+            "Total": {
+                "Total": 30.4
+            },
+            "Gender": {
+                "Male": 29.7,
+                "Female": 31.1
+            }
+        },
+        "Hawaii": {
+            "Race/Ethnicity": {
+                "Hispanic": 31.0,
+                "Asian": 16.1,
+                "Hawaiian/Pacific Islander": 50.3,
+                "Non-Hispanic White": 22.4,
+                "2 or more races": 31.3,
+                "Non-Hispanic Black": 25.9
+            },
+            "Age (years)": {
+                "65 or older": 16.6,
+                "35 - 44": 28.3,
+                "55 - 64": 22.6,
+                "45 - 54": 34.8,
+                "18 - 24": 22.7,
+                "25 - 34": 29.8
+            },
+            "Income": {
+                "$50,000 - $74,999": 25.2,
+                "$35,000 - $49,999": 27.0,
+                "$25,000 - $34,999": 29.2,
+                "Data not reported": 22.6,
+                "$15,000 - $24,999": 26.1,
+                "$75,000 or greater": 24.0,
+                "Less than $15,000": 34.6
+            },
+            "Education": {
+                "Some college or technical school": 25.2,
+                "College graduate": 17.9,
+                "Less than high school": 29.5,
+                "High school graduate": 30.9
+            },
+            "Gender": {
+                "Male": 28.4,
+                "Female": 21.5
+            },
+            "Total": {
+                "Total": 25.0
+            }
+        },
+        "Maryland": {
+            "Education": {
+                "College graduate": 27.3,
+                "Some college or technical school": 38.9,
+                "High school graduate": 38.4,
+                "Less than high school": 39.4
+            },
+            "Gender": {
+                "Male": 33.3,
+                "Female": 35.4
+            },
+            "Age (years)": {
+                "55 - 64": 40.4,
+                "18 - 24": 19.7,
+                "65 or older": 30.1,
+                "25 - 34": 34.7,
+                "35 - 44": 37.0,
+                "45 - 54": 40.9
+            },
+            "Income": {
+                "$35,000 - $49,999": 40.7,
+                "$25,000 - $34,999": 36.5,
+                "Data not reported": 31.2,
+                "$75,000 or greater": 34.8,
+                "Less than $15,000": 38.1,
+                "$50,000 - $74,999": 38.3,
+                "$15,000 - $24,999": 36.0
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 31.2,
+                "2 or more races": 32.3,
+                "Other": 26.2,
+                "Asian": 16.0,
+                "Hispanic": 35.5,
+                "Non-Hispanic Black": 44.1,
+                "American Indian/Alaska Native": 31.6
+            },
+            "Total": {
+                "Total": 34.3
+            }
+        },
+        "West Virginia": {
+            "Age (years)": {
+                "45 - 54": 48.0,
+                "65 or older": 35.9,
+                "55 - 64": 44.6,
+                "18 - 24": 30.4,
+                "25 - 34": 39.8,
+                "35 - 44": 45.2
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 40.7,
+                "Hispanic": 41.0,
+                "2 or more races": 42.9,
+                "Non-Hispanic Black": 41.2
+            },
+            "Income": {
+                "$50,000 - $74,999": 43.1,
+                "$75,000 or greater": 40.4,
+                "Data not reported": 34.9,
+                "$15,000 - $24,999": 44.7,
+                "$25,000 - $34,999": 44.3,
+                "$35,000 - $49,999": 42.1,
+                "Less than $15,000": 43.0
+            },
+            "Education": {
+                "College graduate": 35.4,
+                "Less than high school": 40.3,
+                "High school graduate": 42.8,
+                "Some college or technical school": 41.2
+            },
+            "Gender": {
+                "Female": 41.8,
+                "Male": 39.4
+            },
+            "Total": {
+                "Total": 40.6
+            }
+        },
+        "Nebraska": {
+            "Age (years)": {
+                "45 - 54": 42.0,
+                "35 - 44": 41.0,
+                "55 - 64": 42.3,
+                "25 - 34": 34.4,
+                "65 or older": 34.9,
+                "18 - 24": 19.0
+            },
+            "Gender": {
+                "Male": 36.8,
+                "Female": 35.0
+            },
+            "Total": {
+                "Total": 35.9
+            },
+            "Race/Ethnicity": {
+                "Asian": 16.3,
+                "Hispanic": 36.9,
+                "2 or more races": 46.1,
+                "Non-Hispanic Black": 39.3,
+                "Non-Hispanic White": 35.8,
+                "American Indian/Alaska Native": 47.4
+            },
+            "Income": {
+                "Data not reported": 33.1,
+                "$15,000 - $24,999": 37.3,
+                "$25,000 - $34,999": 37.3,
+                "$75,000 or greater": 37.2,
+                "$35,000 - $49,999": 36.5,
+                "Less than $15,000": 39.5,
+                "$50,000 - $74,999": 37.7
+            },
+            "Education": {
+                "High school graduate": 36.3,
+                "College graduate": 31.2,
+                "Less than high school": 39.8,
+                "Some college or technical school": 39.0
+            }
+        },
+        "California": {
+            "Education": {
+                "High school graduate": 29.1,
+                "Less than high school": 38.3,
+                "College graduate": 19.6,
+                "Some college or technical school": 29.7
+            },
+            "Race/Ethnicity": {
+                "Hispanic": 35.7,
+                "2 or more races": 26.1,
+                "Non-Hispanic Black": 37.0,
+                "Asian": 9.4,
+                "Non-Hispanic White": 26.3,
+                "Other": 37.1
+            },
+            "Income": {
+                "$15,000 - $24,999": 33.9,
+                "$75,000 or greater": 26.9,
+                "$25,000 - $34,999": 33.7,
+                "Data not reported": 22.9,
+                "$35,000 - $49,999": 31.0,
+                "Less than $15,000": 32.4,
+                "$50,000 - $74,999": 27.8
+            },
+            "Age (years)": {
+                "25 - 34": 26.7,
+                "18 - 24": 19.5,
+                "55 - 64": 31.7,
+                "45 - 54": 29.6,
+                "65 or older": 23.9,
+                "35 - 44": 33.0
+            },
+            "Total": {
+                "Total": 27.6
+            },
+            "Gender": {
+                "Male": 26.5,
+                "Female": 28.7
+            }
+        },
+        "Wyoming": {
+            "Age (years)": {
+                "45 - 54": 34.8,
+                "55 - 64": 34.2,
+                "18 - 24": 28.8,
+                "65 or older": 29.6,
+                "25 - 34": 31.9,
+                "35 - 44": 33.6
+            },
+            "Income": {
+                "Less than $15,000": 34.9,
+                "$50,000 - $74,999": 33.4,
+                "$35,000 - $49,999": 35.1,
+                "Data not reported": 30.6,
+                "$25,000 - $34,999": 31.9,
+                "$15,000 - $24,999": 31.7,
+                "$75,000 or greater": 30.1
+            },
+            "Gender": {
+                "Female": 31.5,
+                "Male": 32.4
+            },
+            "Education": {
+                "College graduate": 26.9,
+                "High school graduate": 35.0,
+                "Some college or technical school": 32.8,
+                "Less than high school": 32.7
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 31.3,
+                "Hispanic": 39.0,
+                "2 or more races": 43.5
+            },
+            "Total": {
+                "Total": 32.0
+            }
+        },
+        "Michigan": {
+            "Race/Ethnicity": {
+                "Non-Hispanic Black": 40.8,
+                "2 or more races": 35.5,
+                "Hispanic": 37.0,
+                "American Indian/Alaska Native": 25.9,
+                "Asian": 9.3,
+                "Other": 31.2,
+                "Non-Hispanic White": 34.1
+            },
+            "Age (years)": {
+                "25 - 34": 33.9,
+                "55 - 64": 39.6,
+                "35 - 44": 37.0,
+                "18 - 24": 22.9,
+                "65 or older": 31.4,
+                "45 - 54": 40.6
+            },
+            "Education": {
+                "High school graduate": 33.9,
+                "Some college or technical school": 37.9,
+                "College graduate": 30.1,
+                "Less than high school": 35.6
+            },
+            "Income": {
+                "$25,000 - $34,999": 33.7,
+                "$50,000 - $74,999": 36.0,
+                "$15,000 - $24,999": 41.3,
+                "$75,000 or greater": 33.5,
+                "Less than $15,000": 39.6,
+                "Data not reported": 31.0,
+                "$35,000 - $49,999": 37.4
+            },
+            "Gender": {
+                "Male": 33.9,
+                "Female": 34.9
+            },
+            "Total": {
+                "Total": 34.4
+            }
+        },
+        "Puerto Rico": {
+            "Education": {
+                "Some college or technical school": 36.2,
+                "College graduate": 32.1,
+                "Less than high school": 39.0,
+                "High school graduate": 37.8
+            },
+            "Income": {
+                "$25,000 - $34,999": 35.8,
+                "$35,000 - $49,999": 34.6,
+                "$50,000 - $74,999": 31.2,
+                "$15,000 - $24,999": 39.8,
+                "$75,000 or greater": 27.2,
+                "Data not reported": 30.5,
+                "Less than $15,000": 39.4
+            },
+            "Age (years)": {
+                "65 or older": 29.6,
+                "25 - 34": 34.1,
+                "55 - 64": 42.2,
+                "18 - 24": 23.4,
+                "45 - 54": 45.4,
+                "35 - 44": 40.2
+            },
+            "Total": {
+                "Total": 36.0
+            },
+            "Gender": {
+                "Female": 37.5,
+                "Male": 34.3
+            },
+            "Race/Ethnicity": {
+                "Hispanic": 36.1
+            }
+        },
+        "Texas": {
+            "Race/Ethnicity": {
+                "Other": 32.4,
+                "Hispanic": 42.5,
+                "Non-Hispanic Black": 43.5,
+                "American Indian/Alaska Native": 26.5,
+                "Non-Hispanic White": 31.5,
+                "2 or more races": 24.5,
+                "Asian": 12.4
+            },
+            "Education": {
+                "High school graduate": 38.6,
+                "Less than high school": 44.5,
+                "College graduate": 28.3,
+                "Some college or technical school": 37.1
+            },
+            "Income": {
+                "Data not reported": 31.1,
+                "$15,000 - $24,999": 38.6,
+                "$75,000 or greater": 37.9,
+                "$25,000 - $34,999": 39.1,
+                "$35,000 - $49,999": 39.4,
+                "Less than $15,000": 44.8,
+                "$50,000 - $74,999": 37.9
+            },
+            "Age (years)": {
+                "25 - 34": 35.1,
+                "45 - 54": 47.6,
+                "55 - 64": 42.2,
+                "18 - 24": 22.1,
+                "65 or older": 30.6,
+                "35 - 44": 38.2
+            },
+            "Total": {
+                "Total": 36.1
+            },
+            "Gender": {
+                "Male": 35.7,
+                "Female": 36.6
+            }
+        },
+        "Arizona": {
+            "Age (years)": {
+                "55 - 64": 35.1,
+                "25 - 34": 30.7,
+                "35 - 44": 36.9,
+                "18 - 24": 20.7,
+                "45 - 54": 35.8,
+                "65 or older": 28.3
+            },
+            "Race/Ethnicity": {
+                "2 or more races": 31.1,
+                "Non-Hispanic Black": 42.5,
+                "American Indian/Alaska Native": 48.9,
+                "Hispanic": 35.8,
+                "Asian": 14.2,
+                "Other": 27.4,
+                "Non-Hispanic White": 28.2
+            },
+            "Education": {
+                "High school graduate": 32.6,
+                "Some college or technical school": 33.6,
+                "College graduate": 25.5,
+                "Less than high school": 35.2
+            },
+            "Income": {
+                "$25,000 - $34,999": 34.5,
+                "$75,000 or greater": 29.2,
+                "$15,000 - $24,999": 36.3,
+                "Less than $15,000": 39.2,
+                "Data not reported": 27.4,
+                "$50,000 - $74,999": 31.7,
+                "$35,000 - $49,999": 34.2
+            },
+            "Total": {
+                "Total": 31.3
+            },
+            "Gender": {
+                "Male": 31.1,
+                "Female": 31.6
+            }
+        },
+        "Tennessee": {
+            "Age (years)": {
+                "35 - 44": 41.0,
+                "45 - 54": 43.3,
+                "55 - 64": 38.0,
+                "18 - 24": 25.8,
+                "65 or older": 28.9,
+                "25 - 34": 33.4
+            },
+            "Income": {
+                "$35,000 - $49,999": 39.8,
+                "$15,000 - $24,999": 32.5,
+                "Data not reported": 30.1,
+                "Less than $15,000": 42.1,
+                "$75,000 or greater": 40.4,
+                "$25,000 - $34,999": 38.6,
+                "$50,000 - $74,999": 33.1
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic Black": 47.3,
+                "2 or more races": 43.8,
+                "Non-Hispanic White": 33.0,
+                "Hispanic": 33.8,
+                "Asian": 12.4,
+                "American Indian/Alaska Native": 33.0
+            },
+            "Total": {
+                "Total": 35.0
+            },
+            "Education": {
+                "Less than high school": 33.1,
+                "Some college or technical school": 36.3,
+                "College graduate": 33.2,
+                "High school graduate": 36.0
+            },
+            "Gender": {
+                "Female": 37.1,
+                "Male": 32.8
+            }
+        },
+        "Kansas": {
+            "Education": {
+                "College graduate": 30.1,
+                "Some college or technical school": 38.8,
+                "High school graduate": 38.3,
+                "Less than high school": 39.5
+            },
+            "Income": {
+                "$25,000 - $34,999": 40.3,
+                "$35,000 - $49,999": 36.1,
+                "$50,000 - $74,999": 39.1,
+                "Less than $15,000": 41.2,
+                "$75,000 or greater": 38.0,
+                "Data not reported": 31.8,
+                "$15,000 - $24,999": 37.5
+            },
+            "Gender": {
+                "Female": 36.8,
+                "Male": 35.3
+            },
+            "Age (years)": {
+                "45 - 54": 42.7,
+                "65 or older": 31.1,
+                "35 - 44": 40.9,
+                "55 - 64": 42.8,
+                "25 - 34": 37.1,
+                "18 - 24": 22.2
+            },
+            "Race/Ethnicity": {
+                "Asian": 11.0,
+                "Other": 55.8,
+                "Hispanic": 41.0,
+                "2 or more races": 39.1,
+                "Non-Hispanic Black": 38.7,
+                "Non-Hispanic White": 35.6,
+                "American Indian/Alaska Native": 45.7
+            },
+            "Total": {
+                "Total": 36.0
+            }
+        },
+        "Georgia": {
+            "Income": {
+                "$50,000 - $74,999": 38.1,
+                "$75,000 or greater": 37.9,
+                "$15,000 - $24,999": 35.7,
+                "Data not reported": 29.8,
+                "$25,000 - $34,999": 33.5,
+                "Less than $15,000": 38.5,
+                "$35,000 - $49,999": 35.0
+            },
+            "Total": {
+                "Total": 33.9
+            },
+            "Age (years)": {
+                "45 - 54": 42.2,
+                "55 - 64": 39.0,
+                "18 - 24": 19.4,
+                "65 or older": 28.7,
+                "25 - 34": 34.5,
+                "35 - 44": 38.3
+            },
+            "Education": {
+                "College graduate": 28.6,
+                "High school graduate": 37.4,
+                "Some college or technical school": 35.3,
+                "Less than high school": 34.7
+            },
+            "Gender": {
+                "Female": 35.8,
+                "Male": 32.0
+            },
+            "Race/Ethnicity": {
+                "Asian": 16.5,
+                "Other": 28.5,
+                "Hispanic": 32.7,
+                "2 or more races": 28.3,
+                "Non-Hispanic Black": 42.7,
+                "Non-Hispanic White": 30.4,
+                "American Indian/Alaska Native": 25.1
+            }
+        },
+        "Oklahoma": {
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 38.3,
+                "Non-Hispanic Black": 44.8,
+                "2 or more races": 42.8,
+                "Hispanic": 39.9,
+                "American Indian/Alaska Native": 47.1
+            },
+            "Education": {
+                "Less than high school": 39.8,
+                "High school graduate": 41.3,
+                "Some college or technical school": 42.4,
+                "College graduate": 32.8
+            },
+            "Age (years)": {
+                "45 - 54": 50.0,
+                "35 - 44": 46.0,
+                "25 - 34": 36.4,
+                "55 - 64": 42.0,
+                "18 - 24": 30.6,
+                "65 or older": 33.2
+            },
+            "Income": {
+                "$50,000 - $74,999": 44.7,
+                "$25,000 - $34,999": 39.1,
+                "$15,000 - $24,999": 40.7,
+                "$35,000 - $49,999": 40.9,
+                "$75,000 or greater": 43.4,
+                "Less than $15,000": 41.1,
+                "Data not reported": 35.0
+            },
+            "Total": {
+                "Total": 39.4
+            },
+            "Gender": {
+                "Male": 39.8,
+                "Female": 39.0
+            }
+        },
+        "Idaho": {
+            "Income": {
+                "$50,000 - $74,999": 32.1,
+                "$15,000 - $24,999": 34.1,
+                "$35,000 - $49,999": 33.1,
+                "$25,000 - $34,999": 35.2,
+                "Data not reported": 27.1,
+                "$75,000 or greater": 32.0,
+                "Less than $15,000": 43.7
+            },
+            "Gender": {
+                "Female": 31.8,
+                "Male": 31.4
+            },
+            "Age (years)": {
+                "45 - 54": 38.4,
+                "55 - 64": 38.1,
+                "18 - 24": 16.0,
+                "65 or older": 27.7,
+                "25 - 34": 31.0,
+                "35 - 44": 37.7
+            },
+            "Education": {
+                "College graduate": 27.0,
+                "Some college or technical school": 32.9,
+                "High school graduate": 33.9,
+                "Less than high school": 31.9
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 31.0,
+                "American Indian/Alaska Native": 39.1,
+                "Hispanic": 36.3,
+                "2 or more races": 27.0
+            },
+            "Total": {
+                "Total": 31.6
+            }
+        },
+        "Arkansas": {
+            "Income": {
+                "$35,000 - $49,999": 40.1,
+                "Less than $15,000": 42.5,
+                "$15,000 - $24,999": 39.0,
+                "Data not reported": 35.0,
+                "$75,000 or greater": 39.8,
+                "$50,000 - $74,999": 44.1,
+                "$25,000 - $34,999": 37.1
+            },
+            "Total": {
+                "Total": 38.7
+            },
+            "Race/Ethnicity": {
+                "2 or more races": 34.8,
+                "Non-Hispanic White": 37.6,
+                "Hispanic": 35.9,
+                "Non-Hispanic Black": 50.0,
+                "American Indian/Alaska Native": 20.5
+            },
+            "Education": {
+                "Less than high school": 29.9,
+                "College graduate": 36.7,
+                "Some college or technical school": 42.8,
+                "High school graduate": 39.5
+            },
+            "Age (years)": {
+                "35 - 44": 45.3,
+                "45 - 54": 45.3,
+                "55 - 64": 42.6,
+                "65 or older": 33.4,
+                "18 - 24": 28.4,
+                "25 - 34": 37.6
+            },
+            "Gender": {
+                "Female": 38.6,
+                "Male": 38.7
+            }
+        },
+        "Minnesota": {
+            "Income": {
+                "$15,000 - $24,999": 37.8,
+                "Less than $15,000": 40.1,
+                "$35,000 - $49,999": 34.8,
+                "Data not reported": 28.0,
+                "$75,000 or greater": 36.3,
+                "$25,000 - $34,999": 35.6,
+                "$50,000 - $74,999": 33.7
+            },
+            "Race/Ethnicity": {
+                "2 or more races": 36.3,
+                "Non-Hispanic White": 32.4,
+                "Hispanic": 34.1,
+                "Asian": 21.9,
+                "Non-Hispanic Black": 36.4,
+                "American Indian/Alaska Native": 41.5
+            },
+            "Education": {
+                "Less than high school": 35.9,
+                "College graduate": 27.4,
+                "Some college or technical school": 36.1,
+                "High school graduate": 33.1
+            },
+            "Age (years)": {
+                "35 - 44": 35.8,
+                "45 - 54": 38.3,
+                "55 - 64": 37.3,
+                "18 - 24": 17.5,
+                "65 or older": 30.8,
+                "25 - 34": 31.5
+            },
+            "Total": {
+                "Total": 32.4
+            },
+            "Gender": {
+                "Female": 31.0,
+                "Male": 33.7
+            }
+        },
+        "Massachusetts": {
+            "Age (years)": {
+                "55 - 64": 34.6,
+                "65 or older": 26.3,
+                "45 - 54": 30.2,
+                "35 - 44": 31.6,
+                "25 - 34": 25.7,
+                "18 - 24": 12.8
+            },
+            "Income": {
+                "$35,000 - $49,999": 28.9,
+                "$50,000 - $74,999": 27.0,
+                "Less than $15,000": 34.9,
+                "$75,000 or greater": 27.4,
+                "$15,000 - $24,999": 34.0,
+                "Data not reported": 24.6,
+                "$25,000 - $34,999": 39.0
+            },
+            "Education": {
+                "College graduate": 21.2,
+                "High school graduate": 32.1,
+                "Less than high school": 35.1,
+                "Some college or technical school": 30.1
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic Black": 35.3,
+                "Non-Hispanic White": 26.8,
+                "Asian": 11.3,
+                "Hispanic": 36.0,
+                "2 or more races": 27.7
+            },
+            "Gender": {
+                "Male": 27.7,
+                "Female": 27.1
+            },
+            "Total": {
+                "Total": 27.4
+            }
+        },
+        "Missouri": {
+            "Race/Ethnicity": {
+                "Other": 38.1,
+                "Asian": 17.4,
+                "2 or more races": 38.2,
+                "Non-Hispanic White": 36.8,
+                "Non-Hispanic Black": 44.3,
+                "Hispanic": 43.2,
+                "American Indian/Alaska Native": 33.0
+            },
+            "Education": {
+                "High school graduate": 39.3,
+                "Some college or technical school": 40.5,
+                "College graduate": 30.5,
+                "Less than high school": 39.3
+            },
+            "Income": {
+                "Data not reported": 32.1,
+                "$15,000 - $24,999": 43.1,
+                "$35,000 - $49,999": 41.1,
+                "Less than $15,000": 41.7,
+                "$50,000 - $74,999": 40.3,
+                "$75,000 or greater": 37.2,
+                "$25,000 - $34,999": 39.8
+            },
+            "Age (years)": {
+                "35 - 44": 42.7,
+                "25 - 34": 36.5,
+                "55 - 64": 41.5,
+                "65 or older": 32.5,
+                "18 - 24": 26.3,
+                "45 - 54": 43.6
+            },
+            "Gender": {
+                "Male": 37.8,
+                "Female": 36.6
+            },
+            "Total": {
+                "Total": 37.3
+            }
+        },
+        "Kentucky": {
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 40.0,
+                "Non-Hispanic Black": 46.8,
+                "2 or more races": 47.1,
+                "Hispanic": 41.3
+            },
+            "Age (years)": {
+                "18 - 24": 28.2,
+                "45 - 54": 49.0,
+                "35 - 44": 43.4,
+                "25 - 34": 41.6,
+                "65 or older": 35.3,
+                "55 - 64": 43.6
+            },
+            "Income": {
+                "$25,000 - $34,999": 47.8,
+                "$50,000 - $74,999": 41.0,
+                "$15,000 - $24,999": 48.8,
+                "$35,000 - $49,999": 39.3,
+                "$75,000 or greater": 38.6,
+                "Less than $15,000": 45.5,
+                "Data not reported": 35.5
+            },
+            "Education": {
+                "Less than high school": 44.3,
+                "High school graduate": 41.7,
+                "Some college or technical school": 44.0,
+                "College graduate": 31.4
+            },
+            "Total": {
+                "Total": 40.3
+            },
+            "Gender": {
+                "Male": 39.8,
+                "Female": 40.9
+            }
+        },
+        "Virginia": {
+            "Age (years)": {
+                "45 - 54": 42.7,
+                "18 - 24": 17.4,
+                "55 - 64": 41.4,
+                "25 - 34": 32.9,
+                "65 or older": 31.6,
+                "35 - 44": 36.7
+            },
+            "Education": {
+                "High school graduate": 38.4,
+                "College graduate": 27.0,
+                "Some college or technical school": 38.1,
+                "Less than high school": 39.1
+            },
+            "Income": {
+                "Data not reported": 30.1,
+                "$15,000 - $24,999": 41.4,
+                "$25,000 - $34,999": 35.1,
+                "$75,000 or greater": 38.9,
+                "$35,000 - $49,999": 36.5,
+                "$50,000 - $74,999": 38.4,
+                "Less than $15,000": 38.2
+            },
+            "Gender": {
+                "Female": 34.9,
+                "Male": 33.6
+            },
+            "Race/Ethnicity": {
+                "2 or more races": 24.7,
+                "Hispanic": 30.2,
+                "Asian": 15.1,
+                "Other": 35.9,
+                "Non-Hispanic Black": 46.7,
+                "Non-Hispanic White": 33.3
+            },
+            "Total": {
+                "Total": 34.2
+            }
+        },
+        "Iowa": {
+            "Education": {
+                "Some college or technical school": 37.7,
+                "High school graduate": 37.0,
+                "Less than high school": 40.8,
+                "College graduate": 32.7
+            },
+            "Age (years)": {
+                "45 - 54": 44.2,
+                "18 - 24": 21.7,
+                "55 - 64": 37.5,
+                "65 or older": 34.7,
+                "25 - 34": 37.8,
+                "35 - 44": 41.6
+            },
+            "Race/Ethnicity": {
+                "American Indian/Alaska Native": 45.2,
+                "Hispanic": 36.3,
+                "2 or more races": 33.1,
+                "Non-Hispanic Black": 41.6,
+                "Asian": 14.8,
+                "Non-Hispanic White": 36.6
+            },
+            "Income": {
+                "$75,000 or greater": 36.9,
+                "$50,000 - $74,999": 37.7,
+                "$35,000 - $49,999": 38.0,
+                "Less than $15,000": 46.1,
+                "$25,000 - $34,999": 37.9,
+                "$15,000 - $24,999": 33.3,
+                "Data not reported": 34.0
+            },
+            "Gender": {
+                "Male": 36.4,
+                "Female": 36.4
+            },
+            "Total": {
+                "Total": 36.4
+            }
+        },
+        "Mississippi": {
+            "Education": {
+                "High school graduate": 38.1,
+                "Less than high school": 39.6,
+                "College graduate": 38.1,
+                "Some college or technical school": 40.5
+            },
+            "Income": {
+                "Data not reported": 33.9,
+                "$15,000 - $24,999": 45.3,
+                "$75,000 or greater": 40.8,
+                "$25,000 - $34,999": 40.6,
+                "$35,000 - $49,999": 42.7,
+                "Less than $15,000": 39.7,
+                "$50,000 - $74,999": 40.7
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic Black": 47.0,
+                "Non-Hispanic White": 34.8
+            },
+            "Age (years)": {
+                "25 - 34": 40.0,
+                "18 - 24": 26.4,
+                "55 - 64": 47.9,
+                "45 - 54": 51.6,
+                "65 or older": 31.5,
+                "35 - 44": 38.8
+            },
+            "Total": {
+                "Total": 39.1
+            },
+            "Gender": {
+                "Male": 36.7,
+                "Female": 41.5
+            }
+        },
+        "Montana": {
+            "Education": {
+                "Some college or technical school": 34.3,
+                "High school graduate": 35.4,
+                "College graduate": 25.1,
+                "Less than high school": 33.1
+            },
+            "Age (years)": {
+                "35 - 44": 33.2,
+                "45 - 54": 36.0,
+                "55 - 64": 36.5,
+                "18 - 24": 18.9,
+                "65 or older": 30.9,
+                "25 - 34": 32.6
+            },
+            "Income": {
+                "$15,000 - $24,999": 34.3,
+                "Data not reported": 27.5,
+                "Less than $15,000": 35.2,
+                "$75,000 or greater": 35.7,
+                "$50,000 - $74,999": 33.8,
+                "$35,000 - $49,999": 32.6,
+                "$25,000 - $34,999": 32.6
+            },
+            "Race/Ethnicity": {
+                "American Indian/Alaska Native": 39.6,
+                "Hispanic": 40.2,
+                "2 or more races": 26.8,
+                "Non-Hispanic White": 30.9
+            },
+            "Gender": {
+                "Female": 31.9,
+                "Male": 31.7
+            },
+            "Total": {
+                "Total": 31.8
+            }
+        },
+        "Washington": {
+            "Income": {
+                "Data not reported": 24.5,
+                "$25,000 - $34,999": 33.3,
+                "$35,000 - $49,999": 31.6,
+                "Less than $15,000": 40.6,
+                "$50,000 - $74,999": 29.5,
+                "$15,000 - $24,999": 37.8,
+                "$75,000 or greater": 30.3
+            },
+            "Race/Ethnicity": {
+                "Hawaiian/Pacific Islander": 46.9,
+                "Non-Hispanic White": 29.5,
+                "Asian": 9.6,
+                "Non-Hispanic Black": 38.0,
+                "2 or more races": 38.3,
+                "Other": 22.2,
+                "Hispanic": 35.4,
+                "American Indian/Alaska Native": 43.9
+            },
+            "Age (years)": {
+                "35 - 44": 30.7,
+                "18 - 24": 18.3,
+                "55 - 64": 32.8,
+                "65 or older": 26.9,
+                "45 - 54": 33.0,
+                "25 - 34": 28.4
+            },
+            "Gender": {
+                "Female": 29.3,
+                "Male": 28.3
+            },
+            "Education": {
+                "Less than high school": 33.6,
+                "College graduate": 22.3,
+                "High school graduate": 32.4,
+                "Some college or technical school": 31.5
+            },
+            "Total": {
+                "Total": 28.8
+            }
+        },
+        "Pennsylvania": {
+            "Age (years)": {
+                "35 - 44": 37.4,
+                "45 - 54": 40.9,
+                "55 - 64": 40.0,
+                "25 - 34": 29.1,
+                "65 or older": 31.0,
+                "18 - 24": 19.0
+            },
+            "Total": {
+                "Total": 33.3
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 32.7,
+                "Asian": 10.6,
+                "Hispanic": 34.1,
+                "2 or more races": 44.9,
+                "Non-Hispanic Black": 44.7
+            },
+            "Education": {
+                "Some college or technical school": 36.1,
+                "College graduate": 26.8,
+                "High school graduate": 36.5,
+                "Less than high school": 34.3
+            },
+            "Gender": {
+                "Male": 34.0,
+                "Female": 32.6
+            },
+            "Income": {
+                "Less than $15,000": 41.1,
+                "$15,000 - $24,999": 37.5,
+                "Data not reported": 29.7,
+                "$75,000 or greater": 36.0,
+                "$25,000 - $34,999": 37.0,
+                "$50,000 - $74,999": 32.6,
+                "$35,000 - $49,999": 36.3
+            }
+        },
+        "Utah": {
+            "Income": {
+                "$25,000 - $34,999": 34.4,
+                "Data not reported": 26.6,
+                "$15,000 - $24,999": 33.5,
+                "$35,000 - $49,999": 34.8,
+                "Less than $15,000": 27.4,
+                "$50,000 - $74,999": 35.0,
+                "$75,000 or greater": 34.3
+            },
+            "Education": {
+                "High school graduate": 31.9,
+                "Some college or technical school": 32.9,
+                "College graduate": 26.7,
+                "Less than high school": 34.8
+            },
+            "Age (years)": {
+                "35 - 44": 34.9,
+                "25 - 34": 32.2,
+                "18 - 24": 16.7,
+                "65 or older": 28.7,
+                "55 - 64": 37.1,
+                "45 - 54": 37.0
+            },
+            "Race/Ethnicity": {
+                "2 or more races": 31.0,
+                "Non-Hispanic White": 30.3,
+                "Asian": 11.1,
+                "Non-Hispanic Black": 23.1,
+                "Hispanic": 37.0,
+                "American Indian/Alaska Native": 39.9
+            },
+            "Total": {
+                "Total": 30.9
+            },
+            "Gender": {
+                "Male": 30.5,
+                "Female": 31.4
+            }
+        },
+        "Illinois": {
+            "Income": {
+                "Data not reported": 29.2,
+                "$25,000 - $34,999": 42.2,
+                "$35,000 - $49,999": 39.5,
+                "$50,000 - $74,999": 39.1,
+                "Less than $15,000": 44.4,
+                "$75,000 or greater": 32.4,
+                "$15,000 - $24,999": 35.4
+            },
+            "Race/Ethnicity": {
+                "Hispanic": 45.5,
+                "Non-Hispanic Black": 38.1,
+                "Non-Hispanic White": 33.1,
+                "Asian": 10.6
+            },
+            "Age (years)": {
+                "18 - 24": 19.3,
+                "55 - 64": 40.0,
+                "45 - 54": 38.5,
+                "65 or older": 32.4,
+                "35 - 44": 38.8,
+                "25 - 34": 33.1
+            },
+            "Total": {
+                "Total": 34.2
+            },
+            "Education": {
+                "College graduate": 24.4,
+                "Some college or technical school": 41.9,
+                "High school graduate": 36.1,
+                "Less than high school": 36.5
+            },
+            "Gender": {
+                "Male": 33.6,
+                "Female": 34.7
+            }
+        },
+        "Guam": {
+            "Income": {
+                "$25,000 - $34,999": 34.8,
+                "$75,000 or greater": 37.3,
+                "$35,000 - $49,999": 28.2,
+                "$50,000 - $74,999": 38.8,
+                "Less than $15,000": 32.5,
+                "$15,000 - $24,999": 38.1,
+                "Data not reported": 30.0
+            },
+            "Age (years)": {
+                "45 - 54": 43.9,
+                "18 - 24": 29.9,
+                "55 - 64": 39.7,
+                "65 or older": 17.6,
+                "35 - 44": 26.7,
+                "25 - 34": 38.4
+            },
+            "Race/Ethnicity": {
+                "Hispanic": 39.2,
+                "2 or more races": 26.8,
+                "Non-Hispanic White": 18.2,
+                "Hawaiian/Pacific Islander": 50.4,
+                "Asian": 16.4
+            },
+            "Education": {
+                "Less than high school": 33.8,
+                "College graduate": 22.2,
+                "Some college or technical school": 31.6,
+                "High school graduate": 41.9
+            },
+            "Gender": {
+                "Male": 36.0,
+                "Female": 30.7
+            },
+            "Total": {
+                "Total": 33.5
+            }
+        },
+        "Alabama": {
+            "Education": {
+                "College graduate": 34.3,
+                "Some college or technical school": 42.6,
+                "High school graduate": 41.1,
+                "Less than high school": 40.5
+            },
+            "Income": {
+                "$35,000 - $49,999": 46.4,
+                "$25,000 - $34,999": 46.2,
+                "Data not reported": 34.1,
+                "$75,000 or greater": 40.3,
+                "Less than $15,000": 40.8,
+                "$50,000 - $74,999": 42.8,
+                "$15,000 - $24,999": 40.8
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic Black": 49.7,
+                "Non-Hispanic White": 36.8,
+                "2 or more races": 45.8,
+                "Hispanic": 38.8
+            },
+            "Gender": {
+                "Male": 38.0,
+                "Female": 41.6
+            },
+            "Age (years)": {
+                "55 - 64": 44.4,
+                "65 or older": 30.9,
+                "25 - 34": 46.6,
+                "35 - 44": 45.8,
+                "18 - 24": 25.4,
+                "45 - 54": 46.4
+            },
+            "Total": {
+                "Total": 39.9
+            }
+        },
+        "Indiana": {
+            "Education": {
+                "Some college or technical school": 38.7,
+                "College graduate": 32.6,
+                "Less than high school": 39.5,
+                "High school graduate": 35.9
+            },
+            "Age (years)": {
+                "65 or older": 33.1,
+                "55 - 64": 41.9,
+                "18 - 24": 22.5,
+                "45 - 54": 42.1,
+                "25 - 34": 36.0,
+                "35 - 44": 41.1
+            },
+            "Income": {
+                "$35,000 - $49,999": 37.4,
+                "$25,000 - $34,999": 38.7,
+                "$50,000 - $74,999": 37.1,
+                "$75,000 or greater": 39.0,
+                "$15,000 - $24,999": 44.3,
+                "Less than $15,000": 40.6,
+                "Data not reported": 31.4
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 35.4,
+                "Non-Hispanic Black": 46.5,
+                "2 or more races": 42.0,
+                "Other": 34.9,
+                "American Indian/Alaska Native": 33.2,
+                "Hispanic": 42.4,
+                "Asian": 10.4
+            },
+            "Gender": {
+                "Female": 38.2,
+                "Male": 34.4
+            },
+            "Total": {
+                "Total": 36.3
+            }
+        },
+        "North Carolina": {
+            "Race/Ethnicity": {
+                "Non-Hispanic White": 32.5,
+                "2 or more races": 41.3,
+                "Non-Hispanic Black": 51.5,
+                "Hispanic": 32.0,
+                "American Indian/Alaska Native": 33.8,
+                "Asian": 16.8
+            },
+            "Education": {
+                "Some college or technical school": 36.5,
+                "College graduate": 29.5,
+                "Less than high school": 44.1,
+                "High school graduate": 39.0
+            },
+            "Age (years)": {
+                "65 or older": 33.0,
+                "25 - 34": 33.9,
+                "55 - 64": 45.2,
+                "18 - 24": 20.5,
+                "45 - 54": 38.4,
+                "35 - 44": 43.2
+            },
+            "Income": {
+                "$35,000 - $49,999": 38.7,
+                "$25,000 - $34,999": 39.1,
+                "$50,000 - $74,999": 34.8,
+                "$15,000 - $24,999": 46.5,
+                "$75,000 or greater": 35.4,
+                "Data not reported": 31.2,
+                "Less than $15,000": 48.0
+            },
+            "Gender": {
+                "Female": 37.9,
+                "Male": 34.1
+            },
+            "Total": {
+                "Total": 36.0
+            }
+        },
+        "Alaska": {
+            "Education": {
+                "Less than high school": 26.4,
+                "College graduate": 28.5,
+                "High school graduate": 35.5,
+                "Some college or technical school": 37.1
+            },
+            "Race/Ethnicity": {
+                "Non-Hispanic Black": 37.0,
+                "Non-Hispanic White": 31.4,
+                "American Indian/Alaska Native": 39.1,
+                "Asian": 20.7,
+                "Other": 31.2,
+                "Hispanic": 39.1,
+                "2 or more races": 44.4
+            },
+            "Age (years)": {
+                "45 - 54": 42.9,
+                "35 - 44": 33.3,
+                "25 - 34": 32.2,
+                "18 - 24": 26.1,
+                "65 or older": 31.8,
+                "55 - 64": 34.4
+            },
+            "Income": {
+                "$35,000 - $49,999": 36.7,
+                "$50,000 - $74,999": 36.2,
+                "Less than $15,000": 28.8,
+                "$75,000 or greater": 32.3,
+                "$15,000 - $24,999": 33.9,
+                "Data not reported": 32.7,
+                "$25,000 - $34,999": 33.0
+            },
+            "Gender": {
+                "Male": 32.3,
+                "Female": 34.9
+            },
+            "Total": {
+                "Total": 33.5
+            }
+        },
+        "South Dakota": {
+            "Education": {
+                "High school graduate": 42.4,
+                "Some college or technical school": 35.0,
+                "College graduate": 36.1,
+                "Less than high school": 46.3
+            },
+            "Income": {
+                "$35,000 - $49,999": 41.7,
+                "$25,000 - $34,999": 44.4,
+                "$50,000 - $74,999": 39.5,
+                "$15,000 - $24,999": 40.3,
+                "$75,000 or greater": 40.7,
+                "Less than $15,000": 44.8,
+                "Data not reported": 33.4
+            },
+            "Age (years)": {
+                "55 - 64": 44.8,
+                "35 - 44": 40.7,
+                "25 - 34": 43.9,
+                "18 - 24": 20.8,
+                "65 or older": 34.3,
+                "45 - 54": 45.3
+            },
+            "Race/Ethnicity": {
+                "2 or more races": 28.9,
+                "Hispanic": 49.7,
+                "American Indian/Alaska Native": 54.6,
+                "Non-Hispanic White": 37.2
+            },
+            "Gender": {
+                "Male": 39.7,
+                "Female": 37.0
+            },
+            "Total": {
+                "Total": 38.4
+            }
+        },
+        "Colorado": {
+            "Age (years)": {
+                "45 - 54": 33.0,
+                "25 - 34": 23.1,
+                "35 - 44": 27.5,
+                "65 or older": 22.9,
+                "55 - 64": 28.5,
+                "18 - 24": 13.8
+            },
+            "Race/Ethnicity": {
+                "Asian": 8.1,
+                "2 or more races": 31.8,
+                "Non-Hispanic White": 23.7,
+                "Non-Hispanic Black": 30.6,
+                "Hispanic": 31.6,
+                "American Indian/Alaska Native": 29.4,
+                "Other": 24.6
+            },
+            "Income": {
+                "$15,000 - $24,999": 31.7,
+                "Data not reported": 22.0,
+                "Less than $15,000": 27.5,
+                "$50,000 - $74,999": 27.2,
+                "$35,000 - $49,999": 28.0,
+                "$75,000 or greater": 25.6,
+                "$25,000 - $34,999": 27.3
+            },
+            "Education": {
+                "High school graduate": 28.2,
+                "Some college or technical school": 27.8,
+                "College graduate": 20.5,
+                "Less than high school": 27.6
+            },
+            "Gender": {
+                "Male": 24.5,
+                "Female": 25.8
+            },
+            "Total": {
+                "Total": 25.1
+            }
+        }
+    }
+}
