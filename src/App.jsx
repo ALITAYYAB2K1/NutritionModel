@@ -129,7 +129,7 @@ function App() {
                   name="state"
                   value={formData.state}
                   onChange={handleChange}
-                  className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-3 py-2.5 text-sm md:text-base shadow-sm focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+                  className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-3 py-2.5 text-sm md:text-base shadow-sm focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent text-slate-800 dark:text-slate-100 appearance-none"
                 >
                   {states.map((s) => (
                     <option key={s} value={s}>
@@ -147,7 +147,7 @@ function App() {
                   name="category"
                   value={formData.category}
                   onChange={handleChange}
-                  className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-3 py-2.5 text-sm md:text-base shadow-sm focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+                  className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-3 py-2.5 text-sm md:text-base shadow-sm focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent text-slate-800 dark:text-slate-100 appearance-none"
                 >
                   {categories.map((c) => (
                     <option key={c} value={c}>
@@ -165,7 +165,7 @@ function App() {
                   name="group"
                   value={formData.group}
                   onChange={handleChange}
-                  className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-3 py-2.5 text-sm md:text-base shadow-sm focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+                  className="w-full rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-3 py-2.5 text-sm md:text-base shadow-sm focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent text-slate-800 dark:text-slate-100 appearance-none"
                 >
                   {getGroups(formData.category).map((g) => (
                     <option key={g} value={g}>
